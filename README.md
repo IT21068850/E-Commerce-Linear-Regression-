@@ -22,13 +22,17 @@ Exploratory Data Analysis (EDA): To uncover patterns and trends in the data.
 Data Visualization: To better understand the relationships between variables.
 Statistical Analysis and Modeling: To determine the significance and influence of each feature on the target variable.
 Machine Learning: To predict yearly spending based on customer behavior and generate insights.
-Conclusion
+
+# Conclusion
+
 The analysis yielded the following key findings:
 
 The Length of Membership is the most significant factor influencing yearly spending.
 While the Time on App shows a meaningful relationship with yearly spending, the Time on Website has little to no impact.
 Customers are more influenced by mobile applications than by desktop websites for online shopping.
-Interpretations
+
+# Interpretations
+
 The company should prioritize improving the mobile app experience to drive higher spending among customers.
 The desktop website requires significant optimization to better engage users and encourage purchases.
 Efforts to enhance customer retention (increasing membership length) could also result in increased yearly spending.
