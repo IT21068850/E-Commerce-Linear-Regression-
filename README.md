@@ -1,12 +1,15 @@
 # E-Commerce-Linear-Regression-
 
-Project Title
+# Project Title
+
 Analysis of Customer Behavior in E-Commerce: Mobile App vs Website
 
-Project Description
+# Project Description
+
 This project aims to analyze customer behavior to determine whether an e-commerce company should prioritize improving its mobile app or its desktop website to maximize customer spending. Using a dataset sourced from Kaggle, we explore the relationships between customer activities, such as time spent on various platforms, and their yearly spending.
 
-Dataset
+# Dataset
+
 The dataset includes the following features:
 
 Avg. Session Length: Average duration of in-store style advice sessions.
@@ -17,7 +20,8 @@ Yearly Amount Spent: Total amount spent by customers annually (target variable).
 Objective
 To identify the key factors influencing the Yearly Amount Spent and provide actionable insights to help the company decide whether to focus its efforts on improving the mobile app or desktop website.
 
-Tools and Techniques
+# Tools and Techniques
+
 Exploratory Data Analysis (EDA): To uncover patterns and trends in the data.
 Data Visualization: To better understand the relationships between variables.
 Statistical Analysis and Modeling: To determine the significance and influence of each feature on the target variable.
