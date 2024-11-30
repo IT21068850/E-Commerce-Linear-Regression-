@@ -1,8 +1,4 @@
-# E-Commerce-Linear-Regression-
-
-# Project Title
-
-Analysis of Customer Behavior in E-Commerce: Mobile App vs Website
+# Analysis of Customer Behavior in E-Commerce: Mobile App vs Website
 
 # Project Description
 
